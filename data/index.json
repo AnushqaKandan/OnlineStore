@@ -4,7 +4,7 @@
             "productName": "Jhumkas",
             "category": "Jhumkas",
             "description": "Best laptop for you",
-            "price": 300,
+            "price": 300.00,
             "img_url": "https://anushqakandan.github.io/All-images/Javascript/Jhumka1.jpg"
         }, 
 
@@ -12,14 +12,14 @@
             "productName": "Jhumkas",
             "category": "Jhumkas",
             "description": "Best laptop for you",
-            "price": 500,
+            "price": 500.00,
             "img_url": "https://anushqakandan.github.io/All-images/Javascript/Jhumka2.jpg"  
         }, 
         {
             "productName": "Jhumkas",
             "category": "Jhumkas",
             "description": "Best laptop for you",
-            "price": 500,
+            "price": 500.00,
             "img_url": "https://anushqakandan.github.io/All-images/Javascript/Jhumka3.jpg"  
         }, 
 
@@ -27,7 +27,7 @@
             "productName": "Maang Tikka",
             "category": "Tikkas",
             "description": "Best laptop for you",
-            "price": 500,
+            "price": 500.00,
             "img_url": "https://anushqakandan.github.io/All-images/Javascript/Tikka1.webp"  
         }, 
 
@@ -35,7 +35,7 @@
             "productName": "Maang Tikka",
             "category": "Tikka",
             "description": "Best laptop for you",
-            "price": 500,
+            "price": 500.00,
             "img_url": "https://anushqakandan.github.io/All-images/Javascript/Tikka2.webp"  
         }, 
         
@@ -43,7 +43,7 @@
             "productName": "Maang Tikka",
             "category": "Tikka",
             "description": "Best laptop for you",
-            "price": 500,
+            "price": 500.00,
             "img_url": "https://anushqakandan.github.io/All-images/Javascript/Tikka3.jpg"  
         }
     ]
