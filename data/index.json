@@ -22,6 +22,14 @@
             "price": 500.00,
             "img_url": "https://anushqakandan.github.io/All-images/Javascript/Jhumka3.jpg"  
         }, 
+        {
+            "productName": "Peacock Pearl Jhumkas",
+            "category": "Jhumkas",
+            "description": "These stunning Jhumkas feature an elegant peacock design with intricate gold detailing and pearl accents.",
+            "price": 500.00,
+            "img_url": "https://anushqakandan.github.io/All-images/Javascript/Jhumka4.webp"  
+        }, 
+        
 
         {
             "productName": "Pink Beaded Tikka",
